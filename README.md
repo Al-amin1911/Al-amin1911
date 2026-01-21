@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🌟 About Me:<br>🎓 Artificial Intelligence and Software Engineering Student (Bachelor's)<br>🚧 Currently working on personal projects to sharpen my skills and expand my portfolio<br>🙌 Not open or seeking collaboration at the moment<br>💡 Ask me about my goals, aspirations, or insights on AI and software development<br>⚡ Fun Fact: Computers operate using “binary code,” composed of just 0’s and 1’s. These combinations power infinite possibilities in software creation!
+🌟 About Me:<br>🎓 Artificial Intelligence and Software Engineering Student (Bachelor's)<br>🚧 Currently working on personal projects to sharpen my skills and expand my portfolio<br>🙌 Currently open to and seeking collaborations<br>💡 Ask me about my goals, aspirations, or insights on AI and software development<br>⚡ Fun Fact: Computers operate using “binary code,” composed of just 0’s and 1’s. These combinations power infinite possibilities in software creation!
 
 
 ## 🌐 Socials:
